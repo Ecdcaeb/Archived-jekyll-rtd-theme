@@ -1,3 +1,8 @@
+# Archived
+This theme is forked from one fork of [rundocs/jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme) which was deleted.
+
+So, the archived here.
+
 # bil-jekyll-rtd-theme
 This theme is adapted from  [rundocs/jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme) which was under MIT license. In this repository; we change color add logo and will probably involve a homepage layout in future. 
 For further information please refer to the original theme.
